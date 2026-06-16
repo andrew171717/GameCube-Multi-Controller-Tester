@@ -3,7 +3,7 @@ Custom controller tester for use on GameCube to test multiple controller inputs 
 
 **Notes:**
 - Only runs on real hardware via Swiss or other homebrew solutions.
-- Emulator support is not tested or supported.
+- Emulator support is not tested nor supported.
 
 
 Todo: Upload source code...
