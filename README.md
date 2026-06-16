@@ -1,0 +1,2 @@
+# GameCube-Multi-Controller-Tester
+Custom controller tester for use on GameCube to test multiple controller inputs at the same time.
